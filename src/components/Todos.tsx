@@ -1,4 +1,3 @@
-import React from 'react';
 import { useTodos } from '../store/todo';
 
 const Todos = () => {
